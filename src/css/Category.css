@@ -1,0 +1,19 @@
+/* .box
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.genel{
+    display: flex;
+    justify-content: center;
+}
+.içerik{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 150px;
+    margin: 15px;
+    background-color: rgb(185, 199, 241);
+} */
